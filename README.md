@@ -16,7 +16,7 @@ $ node --version
 $ npm --version
 ```
 
-To install follow the instructions at [https://nodejs.org/en/]
+To install follow the instructions at [https://nodejs.org/en/]()
 
 
 ### 2. Install required modules for this sample client
@@ -38,4 +38,4 @@ $ node app.js
 
 ### 4. Access the sample application
 
-Open your browser and open [http://localhost:8081/].
+Open your browser and open [http://localhost:8081/]().
